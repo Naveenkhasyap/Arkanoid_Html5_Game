@@ -1,0 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#myCanvas {
+    background: url('http://thechive.files.wordpress.com/2017/05/space-is-infinitely-amazing-gifs-2116.jpg?quality=85&strip=info');
+    display: block;
+    margin: 0 auto;
+    border: 1px solid;
+    box-shadow: 2px;
+}
